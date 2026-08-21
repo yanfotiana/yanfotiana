@@ -2,7 +2,7 @@
 
 ### 🧪 Biomedical Scientist turned Data Analytics Consultant
 
-I’m a **Data Analytics Consultant at The Information Lab** in London, bringing a rigorous scientific background to the world of data engineering and business intelligence. After pivoting from Biomedical Science, I traded the wet lab for data pipelines - and I haven't looked back.
+I’m a **Data Analytics Consultant at The Information Lab** in London, bringing a rigorous scientific background to the world of data engineering and business intelligence. After pivoting from Biomedical Science, I traded the wet lab for data pipelines - and I haven't looked back!
 
 I thrive on complex technical challenges, particularly **building data pipelines from scratch** and designing end-to-end solutions where clean code meets thoughtful design. 
 
