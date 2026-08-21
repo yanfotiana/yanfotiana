@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Fotiana
 
 ### 🧪 Biomedical Scientist turned Data Analytics Consultant
 
